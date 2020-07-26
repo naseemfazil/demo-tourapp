@@ -1,0 +1,19 @@
+.root{
+flex-grow: 1
+}
+.menuButton{
+    margin-right: spacing(2)
+}
+.title{
+    flex-grow: 1
+}
+.card{
+    
+        max-width: 345;
+        margin: 23px; 
+      /* padding-top: 1px */
+}
+/* .card2{
+    max-width: 345;
+    margin-right: 4px;
+} */
